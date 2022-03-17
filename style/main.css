@@ -28,12 +28,12 @@ header .container{
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family: 'arial black', 'Times New Roman', Times, serif;
+    font-family: 'Arial Black', Times;
     font-size: 40px;
 }
 header nav a{
     text-decoration: none;
-    color: #aaa;
+    color: #AAA;
     margin-right: 10px;
 }
 
@@ -42,11 +42,12 @@ header nav a:hover{
 }
 
 /*filme principal*/
+
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)100%), url('/img/Numero4.jpg');
-    
-    height: 400px;
-    background-size: cover;
+    background: linear-gradientgi(rgba(0,0,0,0.50), rgba(0,0,0,0.50)100%) url('/img/Numero4.jpg');
 
+    height: 400px;
+  
+    
 }
