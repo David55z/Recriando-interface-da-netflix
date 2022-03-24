@@ -48,7 +48,7 @@ header nav a:hover{
     font-size:16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/eu-sou-numero-4.jpg');
 
-    height:400px;
+    height:500px;
     background-size:cover;
  
 
@@ -61,7 +61,7 @@ header nav a:hover{
 
 .filme-principal .descricao{
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
 }
 
 
